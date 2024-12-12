@@ -366,9 +366,10 @@ button {
 }
 .corporate_text0 {
     width: 100%;
-    float: left;
+    float: center;
     color: #001431;
     font-size: 24px;
+    text-align: center;
     text-transform: uppercase;
     font-weight: bold;
     padding: 20px 0px;
