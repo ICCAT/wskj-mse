@@ -430,6 +430,17 @@ p.chunks_text {
     padding-bottom: 0px;
 }
 
+.studies_taital2 {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 0px;
+}
+
 /* services section end */
 
 
