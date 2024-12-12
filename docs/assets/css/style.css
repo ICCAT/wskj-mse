@@ -340,7 +340,6 @@ button {
 
 
 /* services section start */
-
 .services_section {
     width: 100%;
     float: left;
@@ -350,6 +349,18 @@ button {
     width: 100%;
     float: left;
     background-color: #f8f2e2;
+    padding: 90px 0px;
+    margin-top: 60px;
+}
+.intro_section {
+    width: 100%;
+    float: left;
+}
+
+.intro_section_2 {
+    width: 100%;
+    float: left;
+    background-color: #ffffff;
     padding: 90px 0px;
     margin-top: 60px;
 }
